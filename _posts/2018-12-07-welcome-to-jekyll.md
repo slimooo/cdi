@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Welcome to Jekyll!
+title: Welcome to CDI!
 subtitle: A awesome static site generator.
 author: Jeffrey
 categories: jekyll
